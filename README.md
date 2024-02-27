@@ -6,7 +6,7 @@
 
 This project was provided by Rocketseat course that the goal is to build an BMI Calculator, on this project I have used some principles from ES6 modules, and validate some fields.
 
-Demo link: https://theimccalc.netlify.app/
+Demo link: https://thebmicalc.netlify.app/
 
 ## 🖥️ Screenshot
 
